@@ -1,0 +1,11 @@
+{
+  "name": "AR-Mariii",
+  "version": "0.0.1",
+  "description": "ar web",
+  "main": "index.js",
+  "repository": "git@github.com:ondrej-hlavac/AR-Mariii.git",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
